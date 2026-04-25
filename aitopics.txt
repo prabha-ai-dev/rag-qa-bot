@@ -1,0 +1,62 @@
+Topic: Artificial Intelligence
+Artificial Intelligence (AI) is a technology that enables machines to simulate human intelligence. It helps computers perform tasks such as learning, reasoning, and problem-solving.
+
+Topic: Machine Learning
+Machine Learning is a subset of Artificial Intelligence. It allows systems to learn from data and improve performance without being explicitly programmed.
+
+Topic: Deep Learning
+Deep Learning is a type of Machine Learning that uses neural networks with multiple layers. It is used in image recognition, speech processing, and natural language understanding.
+
+Topic: Natural Language Processing
+Natural Language Processing (NLP) enables machines to understand and process human language. It is used in chatbots, translation systems, and voice assistants.
+
+Topic: Computer Vision
+Computer Vision allows machines to interpret and understand visual information from images and videos. It is used in facial recognition and object detection.
+
+Topic: Data
+Data is the foundation of Artificial Intelligence systems. High-quality data helps models learn better and produce accurate results.
+
+Topic: Model Training
+Model training is the process of teaching an AI system using data. The model learns patterns and relationships from the training data.
+
+Topic: Overfitting
+Overfitting occurs when a model learns the training data too well and performs poorly on new data.
+
+Topic: Underfitting
+Underfitting happens when a model is too simple to learn patterns in the data.
+
+Topic: Vector Database
+A vector database stores embeddings of data for fast and efficient similarity search. FAISS is a commonly used vector database.
+
+Topic: Embeddings
+Embeddings are numerical representations of text. They help in comparing and retrieving similar content.
+
+Topic: Retrieval-Augmented Generation
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation. It retrieves relevant documents and uses them to generate answers.
+
+Topic: Chunking
+Chunking is the process of splitting large text into smaller parts. It helps improve search and retrieval performance.
+
+Topic: Retriever
+A retriever finds the most relevant chunks of data based on a user query.
+
+Topic: Large Language Model
+A Large Language Model (LLM) is a type of AI model trained on large amounts of text data. It generates human-like responses.
+
+Topic: Prompt
+A prompt is the input given to an AI model. A well-structured prompt improves the quality of the output.
+
+Topic: QA Chain
+A QA Chain is a pipeline that retrieves relevant data and generates answers based on user queries.
+
+Topic: FAISS
+FAISS is a library used for efficient similarity search. It helps store and retrieve embeddings quickly.
+
+Topic: Transformers
+Transformers are a type of neural network architecture used in modern AI models. They are widely used in NLP tasks.
+
+Topic: Hugging Face
+Hugging Face provides tools and models for building AI applications. It offers pre-trained models and pipelines.
+
+Topic: Use Case
+AI is used in healthcare, finance, education, and many other fields to automate tasks and improve efficiency.
